@@ -45,3 +45,35 @@
 * Goed
 * Bruikbaar
 * Vertrouwen
+
+# Basisinformatiesystemen
+Informatiesystemen geven een handelingsperspectief
+* aanpassen van gegevens: verzamelen, beheren en bewerken
+* handelingen in een informatiesysteem: analyseren, integreren, presenteren
+
+# Systemen
+## Domeinen
+### Financieel:
+* Salesorderverwerking
+* Voorraadbeheer
+* Salarissystemen
+* Budgetmanagementsystemen
+* Cashflowsystemen
+* Kapitaalbudgetteringssystemen
+* Financiele analysesystemen
+* Forecastingsystemen
+
+### Logistiek (supplychainmanagement)
+* CRM
+* Supplier
+* Operationele informatiedeelsystemen
+
+### Productie
+* Status: orders en productie
+* Halffabricaten
+* Voorraad
+
+### Personeel
+* Jobanalyse: ontwerp en taakomschrijvingen
+* Jobmanagement: groei medewerker, cursussen en salaris, arbeidsrecht
+* Werving en selectie
