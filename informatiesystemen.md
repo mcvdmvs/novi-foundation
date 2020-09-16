@@ -1,4 +1,6 @@
 # Gegevens en informatie
+Onder gegevens verstaan we de ruwe gegevens of observaties. Deze gegevens zijn van weinig waarde, zolang er niets mee is gedaan. Ze zijn nog niet getransformeerd naar informatie. Gegevens hebben en krijgen geen waarde als ze geen relatie hebben met elkaar. Als we gegevens gaan verwerken, dan worden ze getransformeerd tot informatie
+
 ## Termen
 * Gegevens (data) wordt getransformeerd naar informatie
 * Gegevens zijn feiten
@@ -47,11 +49,15 @@
 * Vertrouwen
 
 # Basisinformatiesystemen
+Basisinformatiesystemen zijn ondersteunend in de bedrijfsprocessen van een organisatie. Deze systemen verzamelen, beheren, bewerken, analyseren, integreren en presenteren gegevens (data) en maken er informatie van. Informatiesystemen functioneren in organisaties en maken gebruik van de organisatie. Er zijn resources nodig voor het informatiesysteem. Informatiesystemen functioneren in verschillende functionele deelgebieden (ook wel domeinen genoemd).
+
 Informatiesystemen geven een handelingsperspectief
 * aanpassen van gegevens: verzamelen, beheren en bewerken
 * handelingen in een informatiesysteem: analyseren, integreren, presenteren
 
 # Systemen
+Informatiesystemen zijn systemen die een bedrijfsfunctie ondersteunen: een domein.
+
 ## Domeinen
 ### Financieel:
 * Salesorderverwerking
@@ -77,3 +83,10 @@ Informatiesystemen geven een handelingsperspectief
 * Jobanalyse: ontwerp en taakomschrijvingen
 * Jobmanagement: groei medewerker, cursussen en salaris, arbeidsrecht
 * Werving en selectie
+
+# Resources voor informatiesystemen
+* mensen
+* hardware
+* software
+* communicatie en data
+
