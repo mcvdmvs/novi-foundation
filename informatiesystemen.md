@@ -90,3 +90,23 @@ Informatiesystemen zijn systemen die een bedrijfsfunctie ondersteunen: een domei
 * software
 * communicatie en data
 
+# Typen informatiesystemen
+## Operatieondersteunende systemen
+* Transactieondersteunende systemen
+* Procescontrolerende systemen: 
+ * JIT (Just In Time) of OPT (Optimized Production Technology)
+ * Pull- or Pushbased
+* Kantoorautomatisering
+ * Coordineren van werk
+ * Verbinden van werk tussen functies
+ * Verbinden van de organisatie met de buitenwereld
+
+## Managementinformatiesystemen
+### Beslissingsondersteundende systemen
+Drie typen van beslissingen in een organisatie:
+* gestructureerde beslissingen: transactieondersteundend informatiesysteem
+* tactische beslissingen: beslissingsondersteunden informatiesysteem
+* strategische beslissingen: executive informatiesysteem
+
+### Rapporterende systemen
+### Executive informatiesystemen
