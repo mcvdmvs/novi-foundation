@@ -108,5 +108,31 @@ Drie typen van beslissingen in een organisatie:
 * tactische beslissingen: beslissingsondersteunden informatiesysteem
 * strategische beslissingen: executive informatiesysteem
 
+Beslissingsondersteundende informatiesystemen bezit de volgende aspecten:
+* performancegegevens -> hoe
+* bedrijfsregels met beslissingstabellen -> waarom
+* analytische tools met forecasting en planning -> wanneer
+* GUI
+* Gebruik voor holistisch perspectief
+* besluitproces ondersteuning
+* eenvoudig
+* makkelijk querien
+* gegevens
+* model
+* AI
+* Expertsystemen: inference engines
+* Neurale netwerken: leren
+
 ### Rapporterende systemen
+* Periodieke rapportages
+* Exceptierapportages
+
 ### Executive informatiesystemen
+Helpen management bij nemen van beslissingen. Over het algemeen gebasseerd op BSC met KPI: financieel, processen, klanten en groeien.
+
+## Interactieondersteundende informatiesystemen
+Door aggregatie van verschillende systemen komen tot een systeem dat interactie met de gebruiker aangaat.
+
+# Andere verdeling
+* Maatwerksystemen maak je in unieke situaties en in situaties waar niets beschikbaar is
+* Nieuwe ontwikkelingen: Big Data, Robotica, IoT, AI, Geotargeting, Conversation platforms
