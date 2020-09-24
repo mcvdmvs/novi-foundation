@@ -136,3 +136,12 @@ Door aggregatie van verschillende systemen komen tot een systeem dat interactie 
 # Andere verdeling
 * Maatwerksystemen maak je in unieke situaties en in situaties waar niets beschikbaar is
 * Nieuwe ontwikkelingen: Big Data, Robotica, IoT, AI, Geotargeting, Conversation platforms
+
+# Geschiedenigs van informatiesystemen
+1950 mainframe voor verwerken grote hoeveelheden gegevens en berekeningen, analoge machines die werkten met ponskaarten
+1960 eerst informatiesysteem: voor administratie en processen
+1970 microprocessor
+1980 desktopcomputer: cad/cam, cal, sds, dss, eis, electronisch betalen, embedded
+1990 multimedia, html
+
+
