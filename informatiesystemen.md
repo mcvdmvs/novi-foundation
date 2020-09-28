@@ -143,5 +143,8 @@ Door aggregatie van verschillende systemen komen tot een systeem dat interactie 
 1970 microprocessor
 1980 desktopcomputer: cad/cam, cal, sds, dss, eis, electronisch betalen, embedded
 1990 multimedia, html
+2000 directe informatieverstrekking
+2010 overal microprocessen
+
 
 
