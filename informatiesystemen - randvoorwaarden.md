@@ -52,5 +52,11 @@ NEN ISO 27000 lijkend op ISO 9000
 * procedures
 * beveiliging
 
+## Overzicht van de norm
+* plannen
+* organiseren
+* management control
+* verantwoording
+
 
 
