@@ -58,5 +58,39 @@ NEN ISO 27000 lijkend op ISO 9000
 * management control
 * verantwoording
 
+# Beveiligen van informatiesystemen
+## Netwerkbeveiliging
+* inloggen
+* segmenteren
+* toegang
+* remote
+* firewall
+* virusscanner
 
+## Applicatiebeveiliging
+* autorisatie
+* authenticatie
+* blockchain
 
+## Gegevensbeveiliging
+* raadplegen
+* muteren
+* verwijderen
+
+# Audits
+## ISO 38500
+* responsibility;  begrijpen van elkaars verantwoordelijkheden
+* strategy; rekening houden met it en organisatie
+* acquisition; transparant, baten, kansen, kosten en risico
+* performance; juiste diensten, niveaus en service
+* conformance; volgens verplicht procedures werken
+* human behaviour; it-beleid heeft respect voor menselijk gedrag
+
+## COBIT
+Control Objectives for Information and Related Technologies (good practises). Framework voor IT. Bestaande uit: COSO, ITIL, BiSL, ISO 27000, CMMI, TOGAF en PMBOK.
+* link tussen business en it
+* proces omschrijvingen
+* controls
+* management guidelines
+* maturity models
+COBIT wordt gebruikt om KPI's vast te stellen
