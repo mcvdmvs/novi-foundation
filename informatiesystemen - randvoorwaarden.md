@@ -94,3 +94,32 @@ Control Objectives for Information and Related Technologies (good practises). Fr
 * management guidelines
 * maturity models
 COBIT wordt gebruikt om KPI's vast te stellen
+
+# Auditten van een IS
+* maatregelen van preventieve aard
+* maatregelen van repressieve aard
+
+## Ist en Soll
+* beoordelen van technische middelen
+* beoordelen van menscapaciteit
+Uitvoeren dmv een Multi Criteria Analyse (MCA); literatuur, observaties en interview
+PDCA-cycle om wijzigingen uit te voeren
+
+## TOWS
+Koppel SWOT aan strategische opportunities en threats
+
+# Analyse
+* situatieanalyse: maken van beleid voor de informatievoorziening
+* probleemanalyse: bekende problemen in kaart brengen
+* veranderanalyse: activiteiten tov functie in kaart brengen
+* precedentieanalyse: ketenvolgordelijkheid in kaart brengen
+* procesanalyse: activiteiten in kaart brengen
+* eigenschappenanalyse: kwantitatieve en kwalitatieve eigenschappen in kaart brengen
+Kwaliteit wordt bepaald in hoeverre het systeem aansluit bij de wensen en eisen van de gebruikers
+
+# Datamodelleringstechnieken
+## gegevensgericht
+Er zijn relaties tussen gegevens en activiteiten op een wiskundige manier benaderd.
+
+## object georienteerd
+Methoden en attributen horen bij dezelfde enitieit en worden conceptueel benaderd.
