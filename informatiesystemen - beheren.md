@@ -94,3 +94,18 @@ Middellange termijn.
 Overleg tussen functioneelbeheerders, systeemeigenaar en de informatiemanager
 
 ### Opstellen IV-organisatiestrategie (Richtinggevend organisatorisch)
+* Leveranciersmanagement
+* Relatiemanagement
+* Ketenpartnermanagement
+* Strategische inrichting IV-functie
+
+Tussen informatie en organisatiestrategie zit de informatiecoordinatie
+
+# Wijzigingsbeheer
+* Wijzigingsprocedure
+* Rollen, taken en verantwoordelijkheden
+* Rapportages
+* Evaluatie over het proces
+
+Businesscase meot voldoen aan COPAFEITHJ (Commercie, Organisatie, Personeel, Administratie, Financieel, Ecologisch, Informatie, Technologie, Huisvesting, Juridisch)
+
