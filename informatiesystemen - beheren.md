@@ -109,3 +109,34 @@ Tussen informatie en organisatiestrategie zit de informatiecoordinatie
 
 Businesscase meot voldoen aan COPAFEITHJ (Commercie, Organisatie, Personeel, Administratie, Financieel, Ecologisch, Informatie, Technologie, Huisvesting, Juridisch)
 
+# ASL
+Applicatiebeheer
+Lijkt op BiSL
+
+Richtinggevende services vallen onder OCM
+Richtinggevende applicaties onder ACM
+Uitvoerende Services onder beheer
+Uitvoerende applicaites onder onderhoud en vernieuwing
+
+Binnen ASL kennen we servicegericht, kijkend naar het leveren van services aan de buitenwereld. En we kennen applicatiegericht; dit is het kennen en ontwikkelen van bedrijfsprocessen.
+
+ASL kent drie niveaus van processen: uitvoerend, sturend en richtinggevend.
+
+# Beheerprocessen
+* Identificatie van applicaties
+* Operationeel gedrag
+* Continuiteit
+* Communicatie
+
+Parameters die beheerprocessen beinvloeden: gedeelde oplossing, directe verantwoordelijkheid, integratie verantwoordelijkheid
+
+## Gebruikersondersteuning
+* vragen, wensen en verstoringen (melding of incident)
+* verbeteren informatievoorziening
+
+## Configuratiebeheer
+* Configuratieitems gaan over infra
+* Serviceitems gaan over de afnemer
+
+## Operationele ICT-sturing
+
