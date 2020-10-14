@@ -139,4 +139,6 @@ Parameters die beheerprocessen beinvloeden: gedeelde oplossing, directe verantwo
 * Serviceitems gaan over de afnemer
 
 ## Operationele ICT-sturing
+3.3 Onderhoud en vernieuwing pagina werkt niet op edhub
 
+@todo vanaf paragraaf 3.3
