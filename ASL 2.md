@@ -16,4 +16,6 @@ Eisen voor applicatiemanagement:
 * _inzichtelijkheid_ vooral in kosten
 * _stuurbaarheid_ van kosten, applicaties en dienstverlening
 * _overdraagbaarheid en vergelijkbaarheid_ van mensen en applicatiemanagement
-* _flexibiliteit_ 
+* _flexibiliteit_ van applicaties
+* _betrouwbaarheid_ 
+* _aansluitbaarheid_ van applicaties
