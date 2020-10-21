@@ -70,4 +70,24 @@ bevat:
 * formulierontwerp
 * testspecificatie
 
+# Implementeren
+* invoering in de gebruikersorganisatie
+* overdracht aan de beheerorganisatie
+* installatie op de infrastructuur
+* conversie van gegevens in het nieuwe informatiesysteem
+
+## Aandachtspunten
+* kwaliteit
+* projectmatig
+* rollback
+
+## Overdracht naar beheer organisatie
+* applicatiebeheerders
+* technische infrastructuur
+* scheiding tussen functioneel- en technisch applicatiemanagement
+
+## Installatie en distributie
+* packaging
+
+
 
