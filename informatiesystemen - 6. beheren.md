@@ -113,10 +113,12 @@ Businesscase meot voldoen aan COPAFEITHJ (Commercie, Organisatie, Personeel, Adm
 Applicatiebeheer
 Lijkt op BiSL
 
+ASL is servicegericht door het leveren van diensten aan personen of organisaties. ASL is ook applicatiegericht en ondersteund de bedrijfsprocessen van organisaties. Maar het gaat niet inhoudelijk in op die processen.
+
 Richtinggevende services vallen onder OCM
 Richtinggevende applicaties onder ACM
 Uitvoerende Services onder beheer
-Uitvoerende applicaites onder onderhoud en vernieuwing
+Uitvoerende applicaties onder onderhoud en vernieuwing
 
 Binnen ASL kennen we servicegericht, kijkend naar het leveren van services aan de buitenwereld. En we kennen applicatiegericht; dit is het kennen en ontwikkelen van bedrijfsprocessen.
 
@@ -139,6 +141,13 @@ Parameters die beheerprocessen beinvloeden: gedeelde oplossing, directe verantwo
 * Serviceitems gaan over de afnemer
 
 ## Operationele ICT-sturing
-3.3 Onderhoud en vernieuwing pagina werkt niet op edhub
+???
 
-@todo vanaf paragraaf 3.3
+## ACM
+Applicatie cycle management gaat over de geleverde objecten
+
+## OCM 
+Organisation cycle management gaat over de dienstverlening die een organisatie levert.
+
+
+
