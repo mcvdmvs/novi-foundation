@@ -175,4 +175,13 @@ Verbinding tussen beheer (gebruik) en onderhoud (aanpassingen).
 * Leveranciersmanagement: inkoop
 
 ## ACM
-ACM houdt zich bezig met de toekomst van applicaties in de informatievoorziening
+ACM houdt zich bezig met de toekomst van applicaties in de informatievoorziening. 
+* hoe ontwikkelt de technologie zich
+* hoe ontwikkelt de gebruikersorganisatie zich
+* hoe ontwikkelt de informatie keten zich
+
+Applicatie lifecycle management: ontwikkel een strategie voor de toekomst
+Applicatie portfolio management: aftemmen van verschillende onderdelen in een applicatie langschap
+
+## OCM
+
