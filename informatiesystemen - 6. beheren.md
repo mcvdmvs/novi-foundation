@@ -184,4 +184,17 @@ Applicatie lifecycle management: ontwikkel een strategie voor de toekomst
 Applicatie portfolio management: aftemmen van verschillende onderdelen in een applicatie langschap
 
 ## OCM
+Organisation Cycle Management maakt de keuzes over de toekomstige diensverlening en de vertaling naar strategie.
+Vier onderwerpen:
+* Klant en markt; eisen in kaart brengen voor toekomstige dienstverlening
+* Gebruikte en gewenste technologie en oplossingen; waarmee gaat de organisatie werken om de dienstverlening van de toekomst te organiseren
+* Kerncompetenties en skills; breng skills en expertises van de organisatie in kaart
+* Onderaannemers en partners; hoe worden de leveranciers ingezet
+
+### Service delivery management
+* Wat is de gewenste dienstverlening in de komende paar jaar.
+* Producten en Diensten Catalogus (PDC)
+* Procudt en Markt Combinaties (PMC)
+
+
 
