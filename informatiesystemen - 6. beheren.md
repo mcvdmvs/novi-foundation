@@ -144,10 +144,35 @@ Parameters die beheerprocessen beinvloeden: gedeelde oplossing, directe verantwo
 ???
 
 ## ACM
-Applicatie cycle management gaat over de geleverde objecten
+Applicatie cycle management gaat over de toekomst van geleverde objecten
 
 ## OCM 
 Organisation cycle management gaat over de dienstverlening die een organisatie levert.
 
+## Cluster: Onderhoud en vernieuwing
+* onderhoudbaarheid
 
+De processen
+* impactanalyse op applicatie, infra en gebruikers
+* ontwerp; vastleggen van de gewenste interface
+* realisatie; wijzigen van informatiesysteem in gewenste situatie
+* testen; controle en nakijken beheersbaarheid
+* implementatie; regelen dat de wijzigingen in gebruik kunnen worden genomen
 
+Er zijn verschillen tussen onderhoud en ontwikkeling, maar ook overeenkomsten. 
+Er zijn ook afhankelijkheden zoals de gekozen ontwikkelmethode,  integraties, onderaannemers, verantwoordelijkheden en beslissingsnelheid
+
+## Verbindende processen
+Verbinding tussen beheer (gebruik) en onderhoud (aanpassingen). 
+* Wijzigingenbeheer; bepalen welke wijzigingen worden uitgevoerd
+* Programmabeheer; distributie van applicatie naar productie
+
+## Sturende processen
+* Contractmanagement: verwachtingsmanagement met afnemers
+* Planning en control: bewaken van tijd, menscapaciteit en opleverdata
+* Kwaliteitsmanagement: kwaliteitsbewaking op organisatie, applicatie en dienstverlening
+* Financieel management: kosten en baten
+* Leveranciersmanagement: inkoop
+
+## ACM
+ACM houdt zich bezig met de toekomst van applicaties in de informatievoorziening
